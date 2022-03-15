@@ -1,0 +1,15 @@
+/Users/yadishbukhari/Desktop/C# Practices/bin/Debug/net5.0/C# Practices.deps.json
+/Users/yadishbukhari/Desktop/C# Practices/bin/Debug/net5.0/C# Practices.runtimeconfig.json
+/Users/yadishbukhari/Desktop/C# Practices/bin/Debug/net5.0/C# Practices.runtimeconfig.dev.json
+/Users/yadishbukhari/Desktop/C# Practices/bin/Debug/net5.0/C# Practices.dll
+/Users/yadishbukhari/Desktop/C# Practices/bin/Debug/net5.0/ref/C# Practices.dll
+/Users/yadishbukhari/Desktop/C# Practices/bin/Debug/net5.0/C# Practices.pdb
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.csproj.AssemblyReference.cache
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.AssemblyInfoInputs.cache
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.AssemblyInfo.cs
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.csproj.CoreCompileInputs.cache
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.dll
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/ref/C# Practices.dll
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.pdb
+/Users/yadishbukhari/Desktop/C# Practices/obj/Debug/net5.0/C# Practices.genruntimeconfig.cache
